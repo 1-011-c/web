@@ -1,6 +1,15 @@
 ## Deine Testverfolgung -- Schnell & Sicher
 
-You can use the [editor on GitHub](https://github.com/1-011-c/web/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Verfolge den Status deiner Probe whärend des gesamten Testzeitraums. Sobald das zuständige Labor das Testergebnis ermittelt hat, wird der mit deiner persönlichen Tracking-ID verknüpfte Status aktualisiert.
+
+![Eine Tracking-ID verbleibt beim Probanden, eine Tracking-ID begleitet die Probe](testbefund-schema-diagram.png)
+
+
+> :warning: Diese Webseite bewirbt eine funktionalen Demonstrator der **keine** Verknüpfung mit realen medizinischen Daten besitzt.
+
+
+
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -32,6 +41,34 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/1-011-c/web/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Impressum
+
+Dieses Webseite ist Teil eines WirVsVirus-Hackathon Projektes "[011_Infektionsfall-Übermittlung_mein.testbefund.de][devpost]"
+
+Der [Quellcode][project-meta] dieses Projektes ist mit der [MIT-Lizenz][license] lizensiert.
+
+Diese Domain (und seine Subdomains, wie mein.testbefund.de) wird vorübergehend und ausschließlich Demonstrationszwecken durch die
+
+mindkeeper solutions GmbH  
+Am Stadtpark 3  
+12167 Berlin
+
+Geschäftsführer  
+Florian Breisch  
+Kerstin Hafemeister  
+
+Registergericht  
+Amtsgericht Charlottenburg  
+Berlin  
+HRB 164590 B
+
+zur Verfügung gestellt. Mit Aufruf dieser Webseite werden Ihre öffentliche IP-Adresse sowie sonstige Informationen die Ihr Client überträgt, gemäß den [Richtlinien von GitHub][github-privacy] verarbeitet. Abfragen die der Auflösung des eingescannten QR-Code dienen werden durch die Amazon AWS verarbeitet und unterliegen deren [Datenschutzbestimmungen][aws-privacy]. Diese Webseite erhebt keine persönlichen Daten und nutzt kein Tracking.
+
+[wirvsvirushackathon]: https://wirvsvirushackathon.org/
+[mindkeeper-solutions]: https://mindkeeper.solutions
+[devpost]: https://devpost.com/software/1_011_c_infektionsfall-ubermittlung
+[project-meta]: https://github.com/1-011-c/meta
+[github-privacy]: https://help.github.com/en/github/site-policy/github-privacy-statement#github-pages
+[aws-privac]: https://aws.amazon.com/de/privacy/
+[license]: http://opensource.org/licenses/mit-license.php
