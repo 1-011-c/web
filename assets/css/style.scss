@@ -1,3 +1,10 @@
 body > section > a {
   display: none
 }
+
+.page-header {
+    color: #fff;
+    text-align: center;
+    background-color: black;
+    background-image: linear-gradient(120deg, red, darkred, black);
+}
