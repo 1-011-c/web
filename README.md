@@ -5,7 +5,7 @@ Verfolge den Status deiner Probe whärend des gesamten Testzeitraums. Sobald das
 ![Eine Tracking-ID verbleibt beim Probanden, eine Tracking-ID begleitet die Probe](testbefund-schema-diagram.png)
 
 
-> :warning: Diese Webseite bewirbt eine funktionalen Demonstrator der **keine** Verknüpfung mit realen medizinischen Daten besitzt.
+> Eine Tracking-ID verbleibt beim Probanden, eine Tracking-ID begleitet die Probe.
 
 
 
@@ -44,7 +44,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Impressum
 
-Dieses Webseite ist Teil eines WirVsVirus-Hackathon Projektes "[011_Infektionsfall-Übermittlung_mein.testbefund.de][devpost]"
+**Achtung!** Diese Webseite bewirbt einen Demonstrator der **keine** realen Daten verwendet und obwohl er voll funktionsfähig ist **keine** Testbefunde enthält!
+
+Dieses Webseite ist Teil eines WirVsVirus-Hackathon Projektes "[011_Infektionsfall-Übermittlung_mein.testbefund.de][devpost]".
 
 Der [Quellcode][project-meta] dieses Projektes ist mit der [MIT-Lizenz][license] lizensiert.
 
