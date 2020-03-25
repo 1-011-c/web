@@ -13,7 +13,7 @@ Verfolge deine Probe:
 
 Für getestete Personen beiten wir zwei Anwendungen:
 
-#### Die Webanwendung https://mein.testbefund.de
+#### Die Webanwendung [https://mein.testbefund.de](https://mein.testbefund.de)
 
 Wenn du diese Webseite mit einem Gerät das über eine Kamera verfügt besuchst, kannst du deine Tracking-ID einscannen und den Test-status direkt ermitteln.
 
@@ -25,7 +25,7 @@ Die Android-App für Getestete besitzt zusätzlich zur Webanwendung die folgende
 - Die Tracking-IDs können mit einem Namen versehen werden, um eine persönliche Zuordnung vorzunehmen.
 - Die Tracking-IDs werden gespeichert und müssen nicht jederzeit erneut eingescannt werden.
 
-Zum Download: https://github.com/1-011-c/frontend-patient/releases
+[Zum Download](https://github.com/1-011-c/frontend-patient/releases)
 
 ### Für Labore
 
@@ -34,7 +34,7 @@ Für Labortechniker stellen wir eine optimierte Android-App bereit, die
 - sich Interaktionslos, mit Handschuhen in einer klinischen Umgebung bedienen lässt.
 - bei Aufheben/Ablegen des Gerätes automatisch den Scan-Modus aktiviert/deaktiviert.
 
-Zum Download: https://github.com/1-011-c/frontend-laboratory/releases
+[Zum Download](https://github.com/1-011-c/frontend-laboratory/releases)
 
 ### Für die Ausgabestelle der Tracking-IDs
 
@@ -45,7 +45,7 @@ Für die Ausgabestellen der Tracking-IDs gibt es eine Kommandozeilen-basierte Ap
 
 Die Tracking-ID-Paare können dann auf Kleberollen gedruckt und an die Testzentren und Ärzte verschickt werden.
 
-Zum Download: https://github.com/1-011-c/frontend-id-issuer/releases
+[Zum Download](https://github.com/1-011-c/frontend-id-issuer/releases)
 
 ### Für Testzentren und Ärzte
 
