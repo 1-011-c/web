@@ -7,7 +7,7 @@ Verfolge den Status deiner Probe whärend des gesamten Testzeitraums. Sobald das
 
 > Eine Tracking-ID verbleibt bei der getsteten Person, eine Tracking-ID begleitet die Probe.
 
-Verfolge deine Probe:
+## Verfolge jetzt deine Probe:
 
 ### Für Getetstete
 
