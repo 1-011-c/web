@@ -55,7 +55,7 @@ Die Testzentren und Ärzte erhalten eine Tracking-ID-Rolle durch die Ausgabestel
 
 **Achtung!** Diese Webseite bewirbt einen Demonstrator der **keine** realen Daten verwendet und obwohl er voll funktionsfähig ist **keine** Testbefunde enthält!
 
-Dieses Webseite ist Teil eines WirVsVirus-Hackathon Projektes "[011_Infektionsfall-Übermittlung_mein.testbefund.de][devpost]".
+Dieses Webseite ist Teil eines [WirVsVirus-Hackathon][wirvsvirushackathon] Projektes "[011_Infektionsfall-Übermittlung_mein.testbefund.de][devpost]".
 
 Der [Quellcode][project-meta] dieses Projektes ist mit der [MIT-Lizenz][license] lizensiert.
 
