@@ -6,8 +6,8 @@
 .page-header {
     color: #fff;
     text-align: center;
-    background-color: black;
-    background-image: linear-gradient(120deg, red, darkred, black);
+    background: rgb(84,124,153);
+    background: linear-gradient(120deg, rgba(84,124,153,1) 0%, rgba(8,88,148,1) 35%, rgba(30,81,120,1) 100%);
 }
 
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
