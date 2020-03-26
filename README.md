@@ -11,7 +11,7 @@ Ein erfolgreiches Ergebnis des [WirVsVirus-Hackathons][wirvsvirushackathon]: Ver
 
 ### Für Getetstete
 
-Für getestete Personen beiten wir zwei Anwendungen:
+Für getestete Personen bieten wir zwei Anwendungen:
 
 #### Die Webanwendung [https://mein.testbefund.de](https://mein.testbefund.de)
 
