@@ -1,6 +1,6 @@
-## Ein erfolgreiches Ergebnis des [WirVsVirus-Hackathons][wirvsvirushackathon]: Deine Testverfolgung -- Schnell & Sicher
+## Deine Testverfolgung -- Schnell & Sicher
 
-Verfolge den Status deiner Probe whärend des gesamten Testzeitraums. Sobald das zuständige Labor das Testergebnis ermittelt hat, wird der mit deiner persönlichen Tracking-ID verknüpfte Status aktualisiert.
+Ein erfolgreiches Ergebnis des [WirVsVirus-Hackathons][wirvsvirushackathon]: Verfolge den Status deiner Probe whärend des gesamten Testzeitraums. Sobald das zuständige Labor das Testergebnis ermittelt hat, wird der mit deiner persönlichen Tracking-ID verknüpfte Status aktualisiert.
 
 ![Eine Tracking-ID verbleibt beim Probanden, eine Tracking-ID begleitet die Probe](testbefund-schema-diagram.png)
 
