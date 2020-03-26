@@ -9,7 +9,7 @@ Ein erfolgreiches Ergebnis des [WirVsVirus-Hackathons][wirvsvirushackathon]: Ver
 
 ## Verfolge jetzt deine Probe:
 
-### Für Getetstete
+### Für Getestete
 
 Für getestete Personen bieten wir zwei Anwendungen:
 
