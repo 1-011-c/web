@@ -15,7 +15,7 @@ Für getestete Personen bieten wir zwei Anwendungen:
 
 #### Die Webanwendung [https://mein.testbefund.de](https://mein.testbefund.de)
 
-Wenn du diese Webseite mit einem Gerät das über eine Kamera verfügt besuchst, kannst du deine Tracking-ID einscannen und den Test-status direkt ermitteln.
+Wenn du diese Webseite mit einem Gerät das über eine Kamera verfügt besuchst, kannst du deine Tracking-ID einscannen und den Test-Status direkt ermitteln.
 
 #### Die Android-App
 
@@ -49,7 +49,7 @@ Die Tracking-ID-Paare können dann auf Kleberollen gedruckt und an die Testzentr
 
 ### Für Testzentren und Ärzte
 
-Die Testzentren und Ärzte erhalten eine Tracking-ID-Rolle durch die Ausgabestelle und vorgedruckte Tracking-ID-Merkkarten. Nach Entnahme der Probe wird die Labor-ID auf das Begleitmaterial der PRobe aufgebracht und die PErsönliche Tracking-ID auf einer Merkkarte aufgebracht an die getestete Person ausgehändigt.
+Die Testzentren und Ärzte erhalten eine Tracking-ID-Rolle durch die Ausgabestelle und vorgedruckte Tracking-ID-Merkkarten. Nach Entnahme der Probe wird die Labor-ID auf das Begleitmaterial der Probe aufgebracht und die Persönliche Tracking-ID auf einer Merkkarte aufgebracht an die getestete Person ausgehändigt.
 
 ### Impressum
 
@@ -59,7 +59,7 @@ Dieses Webseite ist Teil eines [WirVsVirus-Hackathon][wirvsvirushackathon] Proje
 
 Der [Quellcode][project-meta] dieses Projektes ist mit der [MIT-Lizenz][license] lizensiert.
 
-Diese Domain (und seine Subdomains, wie mein.testbefund.de) wird vorübergehend und ausschließlich Demonstrationszwecken durch die
+Diese Domain (und seine Subdomains, wie mein.testbefund.de) wird vorübergehend und ausschließlich zu Demonstrationszwecken durch die
 
 mindkeeper solutions GmbH  
 Am Stadtpark 3  
@@ -67,7 +67,7 @@ Am Stadtpark 3
 
 Geschäftsführer  
 Florian Breisch  
-Kerstin Hafemeister  
+Kerstin Hafemeister
 
 Registergericht  
 Amtsgericht Charlottenburg  
